@@ -289,3 +289,47 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+
+/* About Page */
+
+hr {
+  border: 1px dashed black;
+  margin: 20px 0;
+}
+
+.cta {
+  padding-left: 10px;
+}
+
+.about {
+  padding-left: 20px;
+}
+
+.middle {
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 393px;
+  border-bottom: 1px dotted black;
+  margin-bottom: 40px;
+}
+
+button {
+  font-size: 15px;
+  border-radius: 6px;
+  border: 1px solid black;
+  padding: 5px 20px;
+  margin: 10px 0;
+}
+
+.wrap {
+  margin-top: 20px;
+}
+
+.bottom-h {
+  padding-left: 10px;
+}
+
+.bottom {
+  margin-bottom: 30px;
+  padding-left: 10px;
+}
